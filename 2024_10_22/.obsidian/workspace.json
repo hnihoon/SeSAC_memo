@@ -1,70 +1,56 @@
 {
   "main": {
-    "id": "4ed30c553068c830",
+    "id": "cf0f8a83040939bc",
     "type": "split",
     "children": [
       {
-        "id": "2afbef1447cff445",
+        "id": "8eb4d4bc434e6be3",
         "type": "tabs",
         "children": [
           {
-            "id": "c6a68beb8788da8e",
+            "id": "c1b625149d90097b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Markdown.md",
+                "file": "iteration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Markdown"
+              "title": "iteration"
             }
           },
           {
-            "id": "a5796c635cf1dba3",
+            "id": "f8652a8b58bb570a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Markdown.md",
+                "file": "restful.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Markdown"
-            }
-          },
-          {
-            "id": "700965f851d0993b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "restful"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "91da049586b3bcaf",
+    "id": "62c1fa5a08b7cc7e",
     "type": "split",
     "children": [
       {
-        "id": "f11926f3113471ef",
+        "id": "20f1f9dc59f86497",
         "type": "tabs",
         "children": [
           {
-            "id": "ec2c075b534778e1",
+            "id": "65b13adeb5f28a1f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,12 +62,12 @@
             }
           },
           {
-            "id": "d14cccdc1c0139ad",
+            "id": "ad474810b10b68cc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:# 제목1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +79,7 @@
             }
           },
           {
-            "id": "016f5e2167afd91d",
+            "id": "6c766472c3796280",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "a2d76ea86ab15743",
+    "id": "6f6b775cb3b6fc83",
     "type": "split",
     "children": [
       {
-        "id": "a8b0729b66ccd369",
+        "id": "338535a0b44e14c7",
         "type": "tabs",
         "children": [
           {
-            "id": "a453ce7ea7a53f94",
+            "id": "77fa6daf742de11b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.git.md",
+                "file": "iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.git"
+              "title": "Backlinks for iteration"
             }
           },
           {
-            "id": "4bbef5b2b37e2224",
+            "id": "3054b7860e3404b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.git.md",
+                "file": "iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3.git"
+              "title": "Outgoing links from iteration"
             }
           },
           {
-            "id": "e4760696ac8ee335",
+            "id": "ba9965ae4a831651",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,15 +149,15 @@
             }
           },
           {
-            "id": "fc091b7ff044f753",
+            "id": "126252ff1502bb2e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.git.md"
+                "file": "iteration.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.git"
+              "title": "Outline of iteration"
             }
           }
         ]
@@ -191,16 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec2c075b534778e1",
+  "active": "f8652a8b58bb570a",
   "lastOpenFiles": [
-    "1. Markdown.md",
-    "Untitled/Untitled.md",
-    "Untitled",
-    "다운로드.jpg",
-    "2. CLI 명령어.md",
-    "3.git.md",
-    "2024_10_08",
-    "새 폴더",
-    "다운로드.jpg.crdownload"
+    "iteration.md",
+    "restful.md"
   ]
 }
